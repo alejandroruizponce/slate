@@ -11,6 +11,7 @@ includes:
   - intro
   - api_key
   - user_token
+  - mobileocr
   - accommodations
   - reservations
   - checkins
@@ -18,7 +19,3 @@ includes:
 
 search: true
 ---
-
-
-
-
